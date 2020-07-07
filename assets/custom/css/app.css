@@ -1,0 +1,27 @@
+.error{
+    color:red;
+  }
+
+.ci-flash-alert{
+    position: absolute;
+    top: 52px;
+    right: 0;
+    margin-right: 15px;
+    height: 6rem;
+    z-index:999999889;
+    padding-top: 16px !important;
+  
+}
+.ci-flash-alert button{
+    margin-top: 5px;
+}
+.ci-flash-alert span{
+    font-size: 16px;
+}
+.text-white{
+    color: white;
+}
+
+.bg-nav-blue{
+    background-color: #222d32 !important;
+}
